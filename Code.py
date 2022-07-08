@@ -19,5 +19,5 @@ df1=pd.DataFrame()
 df1['Name']=Name
 df1['Age']=Age
 df1['Net (Balance-Credit)']=Net_bal
-df1.to_excel('D:\Output1.xlsx')
+df1.to_excel('D:\Output.xlsx')
 
